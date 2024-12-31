@@ -1,0 +1,15 @@
+E:\Backend\Last session oop\Last session oop\bin\Debug\net5.0\Last session oop.exe
+E:\Backend\Last session oop\Last session oop\bin\Debug\net5.0\Last session oop.deps.json
+E:\Backend\Last session oop\Last session oop\bin\Debug\net5.0\Last session oop.runtimeconfig.json
+E:\Backend\Last session oop\Last session oop\bin\Debug\net5.0\Last session oop.runtimeconfig.dev.json
+E:\Backend\Last session oop\Last session oop\bin\Debug\net5.0\Last session oop.dll
+E:\Backend\Last session oop\Last session oop\bin\Debug\net5.0\Last session oop.pdb
+E:\Backend\Last session oop\Last session oop\obj\Debug\net5.0\Last session oop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend\Last session oop\Last session oop\obj\Debug\net5.0\Last session oop.AssemblyInfoInputs.cache
+E:\Backend\Last session oop\Last session oop\obj\Debug\net5.0\Last session oop.AssemblyInfo.cs
+E:\Backend\Last session oop\Last session oop\obj\Debug\net5.0\Last session oop.csproj.CoreCompileInputs.cache
+E:\Backend\Last session oop\Last session oop\obj\Debug\net5.0\Last session oop.dll
+E:\Backend\Last session oop\Last session oop\obj\Debug\net5.0\refint\Last session oop.dll
+E:\Backend\Last session oop\Last session oop\obj\Debug\net5.0\Last session oop.pdb
+E:\Backend\Last session oop\Last session oop\obj\Debug\net5.0\Last session oop.genruntimeconfig.cache
+E:\Backend\Last session oop\Last session oop\obj\Debug\net5.0\ref\Last session oop.dll
