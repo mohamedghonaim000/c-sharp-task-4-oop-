@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Assigment_4_oop</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="zdkqgglq.1wa~" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\bin\Debug\net5.0\Assigment 4 oop.exe
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\bin\Debug\net5.0\Assigment 4 oop.deps.json
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\bin\Debug\net5.0\Assigment 4 oop.runtimeconfig.json
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\bin\Debug\net5.0\Assigment 4 oop.runtimeconfig.dev.json
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\bin\Debug\net5.0\Assigment 4 oop.dll
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\bin\Debug\net5.0\Assigment 4 oop.pdb
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\obj\Debug\net5.0\Assigment 4 oop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\obj\Debug\net5.0\Assigment 4 oop.AssemblyInfoInputs.cache
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\obj\Debug\net5.0\Assigment 4 oop.AssemblyInfo.cs
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\obj\Debug\net5.0\Assigment 4 oop.csproj.CoreCompileInputs.cache
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\obj\Debug\net5.0\Assigment 4 oop.dll
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\obj\Debug\net5.0\refint\Assigment 4 oop.dll
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\obj\Debug\net5.0\Assigment 4 oop.pdb
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\obj\Debug\net5.0\Assigment 4 oop.genruntimeconfig.cache
+E:\Backend\Last session oop\Assigment 4 oop\Assigment 4 oop\obj\Debug\net5.0\ref\Assigment 4 oop.dll
